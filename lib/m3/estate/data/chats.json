@@ -1,0 +1,37 @@
+[
+  {
+    "name" : "John Rodriguez",
+    "image" : "assets/images/profile/avatar_2.jpg",
+    "chat" : "jane@gmail.com",
+    "messages" : "856-345-2342",
+    "replied" : false
+  },
+  {
+    "name" : "Elizabeth Scott",
+    "image" : "assets/images/profile/avatar_1.jpg",
+    "chat" : "jane@gmail.com",
+    "messages" : "856-345-2342",
+    "replied" : true
+  },
+  {
+    "name" : "Miguel Johnson",
+    "image" : "assets/images/profile/avatar_3.jpg",
+    "chat" : "jane@gmail.com",
+    "messages" : "856-345-2342",
+    "replied" : false
+  },
+  {
+    "name" : "Sarah Palson",
+    "image" : "assets/images/profile/avatar_4.jpg",
+    "chat" : "jane@gmail.com",
+    "messages" : "856-345-2342",
+    "replied" : true
+  },
+  {
+    "name" : "Anna Handy",
+    "image" : "assets/images/profile/avatar_5.jpg",
+    "chat" : "jane@gmail.com",
+    "messages" : "856-345-2342",
+    "replied" : true
+  }
+]
